@@ -5,4 +5,4 @@ print(resta(3,5))
 def multiplicacion(a, b):
 	return a * b
 print(multiplicacion(3,5))
-print(multiplicacion(4,6))
+print(multiplicacion(5,6))
